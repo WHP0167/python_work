@@ -1,2 +1,4 @@
 test rm
 \r\ntwice
+a test
+twice
